@@ -26,5 +26,19 @@ namespace MemoMyProject
         {
             
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            Form2 from2 = new Form2();
+            from2.ShowDialog();
+            
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

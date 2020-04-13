@@ -8,3 +8,4 @@ E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoM
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.CoreCompileInputs.cache
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.exe
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.pdb
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Form2.resources
