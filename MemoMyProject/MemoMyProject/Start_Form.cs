@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace MemoMyProject
 {
-    public partial class Form1 : Form
+    public partial class Start_Form : Form
     {
         
 
-        public Form1()
+        public Start_Form()
         {
             InitializeComponent();
             title.Text = "Memo" + Environment.NewLine + "My" + Environment.NewLine + "Project";
@@ -30,7 +30,7 @@ namespace MemoMyProject
         private void button1_Click(object sender, EventArgs e)
         {
             this.Visible = false;
-            Form2 from2 = new Form2();
+            Main_Form from2 = new Main_Form();
             from2.ShowDialog();
             
 
@@ -38,7 +38,7 @@ namespace MemoMyProject
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
     }
 }

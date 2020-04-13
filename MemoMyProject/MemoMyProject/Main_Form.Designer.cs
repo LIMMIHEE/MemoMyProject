@@ -1,6 +1,6 @@
 ﻿namespace MemoMyProject
 {
-    partial class Form2
+    partial class Main_Form
     {
         /// <summary>
         /// Required designer variable.
@@ -31,8 +31,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.label1 = new System.Windows.Forms.Label();
+            this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
             this.SuspendLayout();
             // 
             // button1
@@ -65,13 +65,6 @@
             this.button3.Text = "이전 일정 확인하기";
             this.button3.UseVisualStyleBackColor = true;
             // 
-            // dateTimePicker1
-            // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(422, 122);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(276, 21);
-            this.dateTimePicker1.TabIndex = 3;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -82,17 +75,23 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "현재 날짜";
             // 
-            // Form2
+            // monthCalendar1
+            // 
+            this.monthCalendar1.Location = new System.Drawing.Point(433, 119);
+            this.monthCalendar1.Name = "monthCalendar1";
+            this.monthCalendar1.TabIndex = 5;
+            // 
+            // Main_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(806, 556);
+            this.Controls.Add(this.monthCalendar1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Form2";
+            this.Name = "Main_Form";
             this.Text = "Form2";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -104,7 +103,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.MonthCalendar monthCalendar1;
     }
 }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MemoMyProject
 {
-    public partial class Form2 : Form
+    public partial class Main_Form : Form
     {
-        public Form2()
+        public Main_Form()
         {
             InitializeComponent();
         }
