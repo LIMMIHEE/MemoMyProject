@@ -1,0 +1,10 @@
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\MemoMyProject.exe.config
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\MemoMyProject.exe
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\MemoMyProject.pdb
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csprojAssemblyReference.cache
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Form1.resources
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Properties.Resources.resources
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.GenerateResource.cache
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.CoreCompileInputs.cache
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.exe
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.pdb
