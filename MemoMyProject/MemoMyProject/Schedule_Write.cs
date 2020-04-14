@@ -12,6 +12,7 @@ namespace MemoMyProject
 {
     public partial class Schedule_Write : Form
     {
+        
         public Schedule_Write()
         {
             InitializeComponent();
@@ -30,7 +31,9 @@ namespace MemoMyProject
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            this.Visible = false;
+            Now_Schedule_Main schedule_Main = new Now_Schedule_Main();
+            schedule_Main.ShowDialog();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

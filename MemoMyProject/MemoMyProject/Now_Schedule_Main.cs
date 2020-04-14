@@ -45,5 +45,14 @@ namespace MemoMyProject
             schedule_Write.ShowDialog();
             
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            Main_Form Main = new Main_Form();
+            Main.ShowDialog();
+        }
+
+       
     }
 }

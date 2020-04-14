@@ -29,5 +29,17 @@ namespace MemoMyProject
             now_Schedule_Main.ShowDialog();
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            Start_Form Main = new Start_Form();
+            Main.ShowDialog();
+        }
+
+        private void Main_Form_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
