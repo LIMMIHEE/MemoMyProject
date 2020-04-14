@@ -21,5 +21,13 @@ namespace MemoMyProject
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            Now_Schedule_Main now_Schedule_Main = new Now_Schedule_Main();
+            now_Schedule_Main.ShowDialog();
+
+        }
     }
 }

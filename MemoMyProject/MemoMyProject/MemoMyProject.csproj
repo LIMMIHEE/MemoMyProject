@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Schedule_Write.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule_Write.Designer.cs">
+      <DependentUpon>Schedule_Write.cs</DependentUpon>
+    </Compile>
     <Compile Include="Now_Schedule_Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Schedule_Write.resx">
+      <DependentUpon>Schedule_Write.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Now_Schedule_Main.resx">
       <DependentUpon>Now_Schedule_Main.cs</DependentUpon>
     </EmbeddedResource>
