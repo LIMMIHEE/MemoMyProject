@@ -11,3 +11,16 @@ E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoM
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Start_Form.resources
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Main_Form.resources
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Schedule_Write.resources
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\MemoMyProject.exe.config
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\MemoMyProject.exe
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\MemoMyProject.pdb
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csprojAssemblyReference.cache
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Schedule_Write.resources
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Now_Schedule_Main.resources
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Start_Form.resources
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Main_Form.resources
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.Properties.Resources.resources
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.GenerateResource.cache
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.CoreCompileInputs.cache
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.exe
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.pdb
