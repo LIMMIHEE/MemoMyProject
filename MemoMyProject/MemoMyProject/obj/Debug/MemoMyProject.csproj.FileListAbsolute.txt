@@ -31,3 +31,9 @@ E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\Ubiet
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\Renci.SshNet.dll
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\MySql.Data.xml
 E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.CopyComplete
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\Google.Protobuf.dll
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\BouncyCastle.Crypto.dll
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\Ubiety.Dns.Core.dll
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\Renci.SshNet.dll
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\bin\Debug\MySql.Data.xml
+D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.CopyComplete
