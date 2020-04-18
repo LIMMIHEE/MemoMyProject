@@ -24,3 +24,10 @@ D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csp
 D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.CoreCompileInputs.cache
 D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.exe
 D:\git\MemoMyProject_git\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.pdb
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\MySql.Data.dll
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\Google.Protobuf.dll
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\BouncyCastle.Crypto.dll
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\Ubiety.Dns.Core.dll
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\Renci.SshNet.dll
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\bin\Debug\MySql.Data.xml
+E:\전공\클론장소\MemoMyProject\MemoMyProject\MemoMyProject\obj\Debug\MemoMyProject.csproj.CopyComplete

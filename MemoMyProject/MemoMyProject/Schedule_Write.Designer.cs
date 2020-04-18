@@ -147,6 +147,7 @@
             this.button1.TabIndex = 10;
             this.button1.Text = "일정 추가";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -177,6 +178,7 @@
             this.Controls.Add(this.radioButton1);
             this.Name = "Schedule_Write";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Schedule_Write_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
