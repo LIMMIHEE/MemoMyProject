@@ -1,7 +1,9 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -28,10 +30,6 @@ namespace MemoMyProject
 
         }
 
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-           
-        }
 
         private void label1_Click(object sender, EventArgs e)
         {
@@ -53,6 +51,35 @@ namespace MemoMyProject
             Main.ShowDialog();
         }
 
-       
+        private void Now_Schedule_Main_Load(object sender, EventArgs e)
+        {
+            MySqlConnection conn = new MySqlConnection("Server=localhost;Database=memo;PORT=3308;Uid=root;Pwd=root;");
+            string sql = "SELECT * FROM memo_table";
+
+            using (conn)
+            {
+                conn.Open();
+
+                // TSQL문장과 Connection 객체를 지정   
+                MySqlCommand cmd = new MySqlCommand(sql, conn);
+
+                // 데이타는 서버에서 가져오도록 실행
+                MySqlDataReader rdr = cmd.ExecuteReader();
+                if (rdr == null)
+                {
+                    MessageBox.Show("값 없음");
+                }
+                else
+                {
+                    while (rdr.Read())
+                    {
+                        label1.Text = rdr["Schedule_name"].ToString();
+                        textBox1.Text = rdr["Schedule_simple_info"].ToString();
+                        //label1.Text = rdr["Schedule_Details_info"].ToString();
+                    }
+                }
+                conn.Close();
+            }
+        }
     }
 }
