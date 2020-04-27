@@ -178,6 +178,7 @@
             this.Controls.Add(this.radioButton1);
             this.Name = "Schedule_Write";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form_closing);
             this.Load += new System.EventHandler(this.Schedule_Write_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

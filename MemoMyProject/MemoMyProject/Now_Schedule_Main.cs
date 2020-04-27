@@ -81,5 +81,10 @@ namespace MemoMyProject
                 conn.Close();
             }
         }
+
+        private void Now_Schedule_Main_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

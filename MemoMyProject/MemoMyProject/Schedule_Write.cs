@@ -83,5 +83,12 @@ namespace MemoMyProject
                 MessageBox.Show(ex.Message);
             }
         }
+
+     
+
+        private void Form_closing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
