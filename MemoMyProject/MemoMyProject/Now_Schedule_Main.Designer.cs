@@ -50,7 +50,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "일정이름";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
             // 
@@ -61,7 +60,6 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "일정 확인";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -72,7 +70,6 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "일정 수정";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // flowLayoutPanel1
             // 
@@ -103,6 +100,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(152, 98);
             this.textBox1.TabIndex = 3;
+
             // 
             // button4
             // 
